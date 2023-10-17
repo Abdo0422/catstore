@@ -1,0 +1,39 @@
+[
+    {"id":1,
+    "name":"White cat",
+    "price":100,
+    "image" :"/imgs/cat1.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    },
+    {"id":2,
+    "name":"Golden cat",
+    "price":500,
+    "image" :"/imgs/cat2.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    },
+    {"id":3,
+    "name":"Grey cat",
+    "price":63,
+    "image" :"/imgs/cat3.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    },
+    {"id":4,
+    "name":"Mixed cat",
+    "price":750,
+    "image" :"/imgs/cat4.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    },
+    {"id":5,
+    "name":"Black cat",
+    "price":48,
+    "image" :"/imgs/cat5.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    },
+    {
+    "id":6,
+    "name":"Green eye cat",
+    "price":300,
+    "image":"/imgs/cat6.jpeg",
+    "description":"I have cats I want to sell and I really need the money. How do I sell my cat without selling them online? Is there any place or store I can go to sell them?"
+    }
+]
